@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "museumdb",
+            "password": "11699",
+            "database": "museum",
+            "username": "root",
+            "connectionTimeout": 1000
+        }
+    ]
+}
